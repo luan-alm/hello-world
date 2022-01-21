@@ -1,6 +1,4 @@
 # hello-world
 First repo
 
-Hello!
-
-I'm currently studying Computer Science and I'm new to Github. Hope I can learn it quickly!
+Luan Almeida. Currently graduating on Computer Science in Federal University of Viçosa.
